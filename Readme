@@ -1,0 +1,5 @@
+bineary to json:
+    libs/flatbuffers/bin/windows/flatc.exe --json --strict-json --raw-binary proto/Monster.fbs -- serialize_result/file  
+
+json to bineary:
+    libs/flatbuffers/bin/windows/flatc.exe --binary --strict-json  proto/Monster.fbs file2.json

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/StudyProj/flatbuffer/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe  -DSAVED_FILE_PATH=\\\"F:/StudyProj/flatbuffer/serialize_result/file\\\" -I../include -I../src -I../libs/flatbuffers/include -I../fb_gen  -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++17 -o CMakeFiles\\flatbuffer_study.dir\\src\\main.cpp.obj -c F:\\StudyProj\\flatbuffer\\src\\main.cpp",
+  "file": "F:/StudyProj/flatbuffer/src/main.cpp"
+}
+]
